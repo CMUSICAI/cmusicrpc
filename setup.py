@@ -1,10 +1,10 @@
 from distutils.core import setup
 setup(
-  name = 'aipgrpc',         
-  packages = ['aipgrpc'],   
-  version = '0.1',      
+  name = 'cmusicairpc',
+  packages = ['cmusicairpc'],
+  version = '0.1',
   license='MIT',     
-  description = 'Crazy simple AI Power Grid RPC library',
+  description = 'Crazy simple CmusicAI RPC library',
   author = 'JonPizza and Alpha',
   author_email = 'jon@jon.network and rvnminers@gmail.com',
   url = 'https://jon.network and https://cyrpticwizardry.com',

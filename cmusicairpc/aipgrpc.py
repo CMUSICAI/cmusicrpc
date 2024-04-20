@@ -3,7 +3,7 @@ from requests.auth import HTTPBasicAuth
 import base64
 import json
 
-class Aipowergrid:
+class CmusicAI:
     def __init__(self, username, password, host='localhost', port=9788):
         self.username = username
         self.password = password 

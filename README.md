@@ -7,7 +7,7 @@ Crazy simple CmusicAI RPC library, designed to work with all versions of CmusicA
 INSTALL:
 
 ```
-pip install cmusicairpc
+pip install .
 ```
 
 ## Setting Up cmusicaid (Linux)
